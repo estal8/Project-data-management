@@ -4,3 +4,50 @@ format: html
 author: Paula and Esther
 ---
 
+## Introduction
+
+Here is the link to the github repository :
+
+https://github.com/estal8/Project-data-management.git
+
+### Databases description
+
+1) The links to the databases we are using : 
+
+**CHECK IF THEY ARE DIRECTLY ACCESSIBLE, IF NOT DESCRIBE WHAT WE DOWNLOADED**
+
+- The crime per state database from the CORGIS Project : https://corgis-edu.github.io/corgis/csv/state_crime/. 
+
+- State GDP : https://apps.bea.gov/regional/downloadzip.htm
+
+- Food access per state : https://corgis-edu.github.io/corgis/csv/food_access/ 
+
+- Police shootings per state since 2015 : https://corgis-edu.github.io/corgis/csv/police_shootings/ 
+
+- Immigration per state (2013-2023) : https://ohss.dhs.gov/topics/immigration/state-immigration-data
+
+- Total per capita categorized public spending (education, welfare, health, corrections, etc.) for every US state : https://data.census.gov/table/GOVSTIMESERIES.GS00LF01?q=Local+Government+Finances&g=010XX00US,$0400000&nkd=GOVTYPE~001,time~2023 
+
+- Income and wealth inequality by US state : https://wid.world/data/ 
+
+- Unemployment per state: https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=0&year=2024&qtr=A&own=2&ind=10&supp=0 or from the census bureau : https://data.census.gov/table/ACSDP1Y2024.DP03?q=employment&g=010XX00US$0400000 
+
+- State demographics : http://www.census.gov/quickfacts/table/PST045215/00 (site en maintenance)
+
+
+2) Description of the sources (and of the most important variables) : 500 words
+
+1 table for each database with the nb of observations…
+
+
+3) Description of the data joining, cleaning, etc
+
+### Research question 
+
+Describe (400 words)… 
+
+**Do economic opportunities and social inequalities correlate with different types of crime (violent, property, or white-collar crimes) at the state level in the United States?**
+
+Graph of the evolution of crime 
+
+
